@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on Full Stack Web.<br>👯 I'm looking to collaborate on an project.<br>💻 Experienced in: HTML, CSS, Tailwind CSS, JavaScript.<br>🪴I'm currently learning React JS.<br>🌱 Always eager to learn and explore new technologies.<br>🚀 Striving to become a better programmer every day.
+🔭 I'm currently working on Full Stack Web.<br>💻 Experienced in: HTML, CSS, Tailwind CSS, JavaScript.<br>🪴I'm currently learning React JS.<br>🌱 Always eager to learn and explore new technologies.<br>🚀 Striving to become a better programmer every day.
 
 
 ## 🌐 Socials:
